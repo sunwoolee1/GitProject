@@ -9,6 +9,7 @@
 <script src ="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 <body>
-
+<h3>폐기 기능</h3>
+<p>폐기 기능은 commit 하기 전 상태의 파일을 완전히 삭제 하는 기능이다.</p>
 </body>
 </html>
