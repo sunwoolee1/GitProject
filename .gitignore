@@ -2,3 +2,5 @@
 .project
 .settings/
 WebContent/META-INF/
+WebContent/WEB-INF/lib/commons-dbcp2-2.1.1.jar
+WebContent/WEB-INF/lib/
